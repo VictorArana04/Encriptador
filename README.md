@@ -33,4 +33,4 @@ Ejemplos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/encriptador-de-texto.git
+   https://github.com/VictorArana04/Encriptador.git
